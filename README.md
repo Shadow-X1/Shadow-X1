@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shadow-X1
-- 👀 I’m interested in learning JAVA , HTML , CSS & Python
+- 👀 I’m interested in learning C,C ++,C#,JAVA,HTML,CSS & Python
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Imtiaz2007
 - 📫 How to reach me manaspritamsahoo123@gmail.com 
